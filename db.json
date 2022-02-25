@@ -1,0 +1,30 @@
+{
+  "result": [
+    {
+      "account": "835082",
+      "name": "6339823",
+      "zccqsqcs": 4,
+      "qjsc": 4.0,
+      "jbsc": 4.0,
+      "pjgzsc": 4.0,
+      "sadHrEstoutaLise": [
+        {
+          "queryDate": "2021-06-06",
+          "casUserLoginDataList": [
+            {
+              "operTime": "2021-06-06 11:11:11",
+              "destinationApp": "atim-anth.at-axprans.Lom/s+imLaslugin"
+            }
+          ],
+          "faceRecognitionDataList": [
+            {
+              "deviceId": "xxx",
+              "signDate": "2021-06-06 11:11:11"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
